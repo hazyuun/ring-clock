@@ -1,9 +1,5 @@
 /*
- *  Made by A-Rain-Lover (Yuun)
- *
- *  Github   : https://www.github.com/A-Rain-Lover
- *  Twitter  : https://twitter.com/A_Rain_Lover
- *
+ *  Github   : https://github.com/computer-spectre
  */
 
 var s = 0, m = 0, h = 0;
