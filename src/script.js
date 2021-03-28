@@ -1,7 +1,3 @@
-/*
- *  Github   : https://github.com/computer-spectre
- */
-
 var s = 0, m = 0, h = 0;
 const margin = 50; /* aka. distance between two rings */
 var inner_radius;
